@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR4k0385_001.yaml, hash: 'sha256:0815db74069332ee396ed02316e32de7569e81607c0c82acfef72bf5e61c1cd6'}
+  - {seq: 1, filename: KR4k0385_001.yaml, hash: 'sha256:3d3e23a525819639e0d61bbab942f0b454290708cf04b9884d9260cf112e0e2d'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR4k0385_001.markers.yaml, hash: 'sha256:b9c51ae2be80a82136fa3b44aa69df75a8300c61dac47c71c060a08e9bfd2c73'}
+  - {seq: 1, role: markers, filename: assets/KR4k0385_001.markers.yaml, hash: 'sha256:2030b5bc39639e5c4ff65a7353fad14073d4fc9d525a77e8d48c49d17a2bd323'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 裴景仁秦記
   type: section
   level: 1
-hash: sha256:5195f7e8b2d0f34566189a0ada57cf36994a86f9439ea9b8a7d3935e7f1dbc34
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:27ecd2fa4dc5f48d117c21b097223f6491224973c2a3e0c8cf3666f92c31820d
