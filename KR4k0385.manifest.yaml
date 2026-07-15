@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR4k0385/v1
 canonical_location: https://kanripo.org/bkk/KR4k0385/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 裴景仁秦記一卷
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR4k0385_001.yaml, hash: 'sha256:3d3e23a525819639e0d61bbab942f0b454290708cf04b9884d9260cf112e0e2d'}
+  - {seq: 1, filename: KR4k0385_001.yaml, hash: 'sha256:c2d38a0f748b24937d0a66c5c3392e5c788d693f358ee2fae9bda9d3a596cf5d'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR4k0385_001.markers.yaml, hash: 'sha256:2030b5bc39639e5c4ff65a7353fad14073d4fc9d525a77e8d48c49d17a2bd323'}
+  - {seq: 1, role: markers, filename: assets/KR4k0385_001.markers.yaml, hash: 'sha256:2d3a21e7f28abb5c9fdb53af734fe340fbbe646148b3864206f9724588f220c3'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,4 +31,7 @@ table_of_contents:
   label: 裴景仁秦記
   type: section
   level: 1
-hash: sha256:27ecd2fa4dc5f48d117c21b097223f6491224973c2a3e0c8cf3666f92c31820d
+hash: sha256:8f9ec9529aaed0d944a28175267b5776f3f2c040323205d4ce5997c72001ee80
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
